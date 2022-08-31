@@ -96,7 +96,11 @@ rm -r drinks
 
 
 ### Step 4
-
+cd /c/Users/1bddo/OneDrive/Desktop/unit1-git-practice
+git init
+git add .
+git status
+git commit -m "First commit using git practice"
 
 ### Step 5
 
