@@ -103,10 +103,15 @@ git status
 git commit -m "First commit using git practice"
 
 ### Step 5
-
+git remote add origin https://github.com/1bddouglas/first-commit-using-git-practice
+git push -u origin master
 
 ### Step 6
-
+touch menu.txt
+ls
+git add .
+git commit -m 'starting a menu'
+git push
 
 ### Step 7
 *** DO NOT RECORD STEP 7 ***
